@@ -1,0 +1,6 @@
+@FitFormServer_HostAddress = http://localhost:7268
+
+GET {{FitFormServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
